@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gas Fee Refund Announcement</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <style type="text/css">
+      /* Base styles */
+      body {
+        margin: 0;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-family: "Roboto", Arial, sans-serif;
+        background-color: #f5f7fa;
+        color: #333;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      /* Container */
+      .email-container {
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: #ffffff;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+      }
+
+      /* Header */
+      .header {
+        background: linear-gradient(135deg, #3a7bd5, #00d2ff);
+        padding: 30px;
+        text-align: center;
+        color: white;
+      }
+
+      .header h1 {
+        margin: 0;
+        font-weight: 700;
+        font-size: 28px;
+        letter-spacing: 0.5px;
+      }
+
+      /* Content */
+      .content {
+        padding: 30px;
+      }
+
+      /* Grid layout */
+      .grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+        margin-bottom: 30px;
+      }
+
+      @media (max-width: 480px) {
+        .grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      .grid-item {
+        background-color: #f0f7ff;
+        border-radius: 6px;
+        padding: 20px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
+      }
+
+      /* Feature box */
+      .feature-box {
+        background-color: #ebf7f8;
+        border-left: 4px solid #00d2ff;
+        padding: 20px;
+        margin: 20px 0;
+        border-radius: 0 6px 6px 0;
+      }
+
+      /* Steps */
+      .steps {
+        counter-reset: step-counter;
+        margin: 30px 0;
+      }
+
+      .step {
+        position: relative;
+        padding-left: 50px;
+        margin-bottom: 20px;
+      }
+
+      .step:before {
+        content: counter(step-counter);
+        counter-increment: step-counter;
+        position: absolute;
+        left: 0;
+        top: 0;
+        background: linear-gradient(135deg, #3a7bd5, #00d2ff);
+        color: white;
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 500;
+      }
+
+      /* Icons and highlights */
+      .icon {
+        font-size: 24px;
+        margin-right: 10px;
+        vertical-align: middle;
+      }
+
+      .highlight {
+        color: #3a7bd5;
+        font-weight: 500;
+      }
+
+      /* CTA Button */
+      .cta-button {
+        display: block;
+        background: linear-gradient(135deg, #3a7bd5, #00d2ff);
+        color: white;
+        text-decoration: none;
+        text-align: center;
+        padding: 16px 24px;
+        border-radius: 6px;
+        font-weight: 500;
+        margin: 30px auto;
+        max-width: 250px;
+        transition: all 0.3s ease;
+      }
+
+      /* Footer */
+      .footer {
+        background-color: #f0f4f8;
+        padding: 20px 30px;
+        text-align: center;
+        color: #6c757d;
+        font-size: 14px;
+      }
+
+      .social-links {
+        margin: 15px 0;
+      }
+
+      .social-link {
+        display: inline-block;
+        margin: 0 10px;
+        color: #3a7bd5;
+        text-decoration: none;
+        font-size: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="email-container">
+      <div class="header">
+        <h1>🔄 Gas Fee Refund Program</h1>
+        <p>We're giving back to our community</p>
+      </div>
+
+      <div class="content">
+        <h2>Hello there,</h2>
+        <p>
+          We're excited to announce our new
+          <span class="highlight">Gas Fee Refund Program</span>, designed to
+          reimburse you for the transaction costs you've incurred while using
+          various platform.
+        </p>
+
+        <div class="feature-box">
+          <h3><span class="icon">💰</span> Gas Fee Reimbursement</h3>
+          <p>
+            We understand that network congestion can lead to high gas fees.
+            That's why we're refunding 89% of the gas fees you've paid for
+            transactions on across all platform.
+          </p>
+        </div>
+
+        <div class="grid">
+          <div class="grid-item">
+            <h3><span class="icon">⚡</span> Fast Refunds</h3>
+            <p>
+              Refunds will be processed within 24 hours of your eligibility
+              completion.
+            </p>
+          </div>
+          <div class="grid-item">
+            <h3><span class="icon">🔒</span> Secure Process</h3>
+            <p>
+              Our refund system is fully automated and secure, with no action
+              required from you.
+            </p>
+          </div>
+        </div>
+
+        <h3>How It Works</h3>
+        <div class="steps">
+          <div class="step">
+            <h4>Check Your Eligibility</h4>
+            <p>Using our platform you can check your eligibility.</p>
+          </div>
+          <div class="step">
+            <h4>Automatic Detection</h4>
+            <p>Our system automatically detects the gas fees you've paid.</p>
+          </div>
+          <div class="step">
+            <h4>Receive Your Refund</h4>
+            <p>The equivalent amount will be credited back to your wallet.</p>
+          </div>
+        </div>
+
+        <div class="grid">
+          <div class="grid-item">
+            <h3><span class="icon">📊</span> Track Your Refunds</h3>
+            <p>
+              Visit your account dashboard to see all your refunded
+              transactions.
+            </p>
+          </div>
+          <div class="grid-item">
+            <h3><span class="icon">❓</span> Have Questions?</h3>
+            <p>
+              Our support team is ready to help with any questions about the
+              refund process.
+            </p>
+          </div>
+        </div>
+
+        <a href="#" class="cta-button">View Your Refunds</a>
+
+        <p>
+          Thank you for being a valued member of our community. We're committed
+          to making your experience as cost-effective as possible.
+        </p>
+
+        <p>Best regards,<br />The Gasfee Team</p>
+      </div>
+
+      <div class="footer">
+        <div class="social-links">
+          <a href="#" class="social-link">📱</a>
+          <a href="#" class="social-link">💬</a>
+          <a href="#" class="social-link">📧</a>
+        </div>
+        <p>© 2025 Gasfee Refund Program. All rights reserved.</p>
+        <p>
+          If you no longer wish to receive these emails,
+          <a href="#">unsubscribe here</a>.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
