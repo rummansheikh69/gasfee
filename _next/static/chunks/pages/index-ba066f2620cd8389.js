@@ -148,7 +148,7 @@
                         className:
                           "interact-button text-sm font-normal text-[#23252A] hover:font-semibold ",
                         href: "#",
-                        children: "Check Eligibility",
+                        children: "Check Your Eligibility",
                       }),
                       (0, s.jsx)(c(), {
                         className:
