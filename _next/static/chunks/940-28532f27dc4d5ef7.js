@@ -720,7 +720,7 @@
                       className:
                         "mr-2 w-[18px] h-[18px] md:h-[20px] md:w-[20px] ",
                     }),
-                    "Connect Wallet To See Eligibility",
+                    "Connect Wallet To See Your Eligibility",
                   ],
                 }),
             (0, l.jsx)(w, {
