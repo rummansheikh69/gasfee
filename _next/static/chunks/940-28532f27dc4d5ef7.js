@@ -712,11 +712,11 @@
                 })
               : (0, l.jsxs)("a", {
                   className:
-                    "flex cursor-pointer interact-button items-center justify-center rounded-lg bg-black px-3 md:px-[23px] py-2 text-center text-sm font-normal text-white transition hover:bg-[#3E3E3E]",
+                    "flex cursor-pointer interact-button items-center justify-center rounded-lg bg-black px-3 md:px-[23px] py-2 text-center text-xs md:text-sm font-normal text-white transition hover:bg-[#3E3E3E]",
                   children: [
                     (0, l.jsx)("img", {
                       src: "./svg/dapp/connect.svg",
-                      alt: "Connect Wallet",
+                      alt: "Connect Wallet To See Your Eligibility",
                       className:
                         "mr-2 w-[18px] h-[18px] md:h-[20px] md:w-[20px] ",
                     }),

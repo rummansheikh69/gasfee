@@ -131,7 +131,7 @@
                 children: [
                   (0, s.jsx)("img", {
                     src: "./svg/logo.svg",
-                    alt: "Gasfee Logo",
+                    alt: "Gasfund Logo",
                     className: "w-[115px] md:w-[183px]",
                   }),
                   (0, s.jsxs)(r.P.div, {
@@ -260,7 +260,7 @@
                         style: { lineHeight: "clamp(65px, 7.29vw, 140px)" },
                         initial: "hidden",
                         animate: "visible",
-                        children: h("With Gasfee AI Protocol"),
+                        children: h("With Gasfund AI Protocol"),
                       }),
                     ],
                   }),
@@ -312,7 +312,7 @@
           {
             title: "Smart GPU Orchestration",
             description:
-              "Gasfee dynamically allocates computability resources, reducing cloud costs and bandwidth overheads.",
+              "Gasfund dynamically allocates computability resources, reducing cloud costs and bandwidth overheads.",
           },
           {
             title: "Local Edge Acceleration",
@@ -365,7 +365,7 @@
                   initial: "hidden",
                   animate: t ? "visible" : "hidden",
                   variants: b,
-                  children: "What Is Gasfee?",
+                  children: "What Is Gasfund?",
                 }),
                 (0, s.jsx)(r.P.img, {
                   src: "./svg/hero-animate.svg",
@@ -385,7 +385,7 @@
                   children: [
                     (0, s.jsxs)("p", {
                       children: [
-                        "Gasfee is committed to ",
+                        "Gasfund is committed to ",
                         (0, s.jsx)("b", {
                           children: "advancing Edge Al technologies",
                         }),
@@ -601,7 +601,7 @@
           [x, h] = (0, n.useState)(0),
           [u, f] = (0, n.useState)(0),
           v =
-            "Gasfee adapts a containerized architecture designed to run AI efficiently on local devices, supporting a wide range of AI applications. While optimizing GPU resource allocation, it accelerates inference, improves training, and enhances data privacy.",
+            "Gasfund adapts a containerized architecture designed to run AI efficiently on local devices, supporting a wide range of AI applications. While optimizing GPU resource allocation, it accelerates inference, improves training, and enhances data privacy.",
           g =
             "With zero commission and near-instant processing, we’ve redefined how gas rebates should work. No middlemen, no delays — just efficient, automated returns.";
         return (
@@ -773,19 +773,23 @@
       let _ = [
           {
             year: "2025 Q1-Q2",
-            points: ["Build Community", "Gasfee Beta Testing"],
+            points: ["Build Community", "Gasfund Beta Testing"],
           },
           {
             year: "2025 Q3-Q4",
             points: [
-              "Gasfee Launch",
-              "Gasfee API",
+              "Gasfund Launch",
+              "Gasfund API",
               "Establish More Partnership",
             ],
           },
           {
             year: "2026",
-            points: ["Gasfee V2", "Gasfee Go", "Integration With More Clients"],
+            points: [
+              "Gasfund V2",
+              "Gasfund Go",
+              "Integration With More Clients",
+            ],
           },
           {
             year: "2027",
@@ -1293,7 +1297,8 @@
                           children: [
                             (0, s.jsx)("input", {
                               type: "text",
-                              placeholder: "Get the latest updates from Gasfee",
+                              placeholder:
+                                "Get the latest updates from Gasfund",
                               onChange: (e) => t(e.target.value),
                             }),
                             (0, s.jsx)("span", {
@@ -1315,7 +1320,7 @@
                             children: "About",
                           }),
                           (0, s.jsx)("a", {
-                            href: "https://docs.Gasfee.ai/",
+                            href: "https://docs.Gasfund.ai/",
                             className: R().socItem,
                             children: "Whitepaper",
                           }),
@@ -1349,7 +1354,7 @@
                       children: [
                         (0, s.jsx)("a", {
                           className: "h-5 w-5 hover:opacity-70",
-                          href: "https://x.com/GasfeeAI",
+                          href: "https://x.com/GasfundAI",
                           target: "_blank",
                           children: (0, s.jsx)("img", {
                             className: "h-full w-full",
@@ -1369,7 +1374,7 @@
                         }),
                         (0, s.jsx)("a", {
                           className: "h-5 w-5 hover:opacity-70",
-                          href: "https://t.me/GasfeeCommunity",
+                          href: "https://t.me/GasfundCommunity",
                           target: "_blank",
                           children: (0, s.jsx)("img", {
                             className: "h-full w-full",
@@ -1379,7 +1384,7 @@
                         }),
                         (0, s.jsx)("a", {
                           className: "h-5 w-5 hover:opacity-70",
-                          href: "https://github.com/Gasfee-Official/Gasfee",
+                          href: "https://github.com/Gasfund-Official/Gasfund",
                           target: "_blank",
                           children: (0, s.jsx)("img", {
                             className: "h-full w-full",
@@ -1401,7 +1406,8 @@
                           children: [
                             (0, s.jsx)("input", {
                               type: "text",
-                              placeholder: "Get the latest updates from Gasfee",
+                              placeholder:
+                                "Get the latest updates from Gasfund",
                               onChange: (e) => t(e.target.value),
                             }),
                             (0, s.jsx)("span", {
@@ -1424,7 +1430,7 @@
                           children: [
                             (0, s.jsx)("a", {
                               className: "h-5 w-5 hover:opacity-70",
-                              href: "https://x.com/GasfeeAI",
+                              href: "https://x.com/GasfundAI",
                               target: "_blank",
                               children: (0, s.jsx)("img", {
                                 className: "h-full w-full",
@@ -1444,7 +1450,7 @@
                             }),
                             (0, s.jsx)("a", {
                               className: "h-5 w-5 hover:opacity-70",
-                              href: "https://t.me/GasfeeCommunity",
+                              href: "https://t.me/GasfundCommunity",
                               target: "_blank",
                               children: (0, s.jsx)("img", {
                                 className: "h-full w-full",
@@ -1454,7 +1460,7 @@
                             }),
                             (0, s.jsx)("a", {
                               className: "h-5 w-5 hover:opacity-70",
-                              href: "https://github.com/Gasfee-Official/Gasfee",
+                              href: "https://github.com/Gasfund-Official/Gasfund",
                               target: "_blank",
                               children: (0, s.jsx)("img", {
                                 className: "h-full w-full",
@@ -1469,7 +1475,7 @@
                             R().crypto,
                             " md:self-end text-right"
                           ),
-                          children: "\xa9 2025 Gasfee",
+                          children: "\xa9 2025 Gasfund",
                         }),
                       ],
                     }),
@@ -1499,7 +1505,7 @@
             children: [
               (0, s.jsxs)(l(), {
                 children: [
-                  (0, s.jsx)("title", { children: "Gasfee" }),
+                  (0, s.jsx)("title", { children: "Gasfund" }),
                   (0, s.jsx)("meta", {
                     name: "description",
                     content:
@@ -1511,11 +1517,11 @@
                   }),
                   (0, s.jsx)("meta", {
                     property: "og:title",
-                    content: "Gasfee",
+                    content: "Gasfund",
                   }),
                   (0, s.jsx)("meta", {
                     property: "og:url",
-                    content: "https://Gasfee.ai",
+                    content: "https://Gasfund.ai",
                   }),
                   (0, s.jsx)("meta", {
                     property: "og:image",
@@ -1532,7 +1538,7 @@
                   }),
                   (0, s.jsx)("meta", {
                     name: "twitter:title",
-                    content: "Gasfee",
+                    content: "Gasfund",
                   }),
                   (0, s.jsx)("meta", {
                     name: "twitter:image",
