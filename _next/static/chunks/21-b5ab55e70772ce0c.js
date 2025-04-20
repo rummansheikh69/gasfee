@@ -531,7 +531,7 @@
                 }),
                 (0, s.jsx)("meta", {
                   property: "og:image",
-                  content: "/images/logo-square.png",
+                  content: "./images/logo-square.png",
                 }),
                 (0, s.jsx)("meta", { property: "og:description", content: l }),
                 (0, s.jsx)("meta", {
