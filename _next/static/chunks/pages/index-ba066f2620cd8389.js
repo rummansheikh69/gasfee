@@ -1508,8 +1508,7 @@
                   (0, s.jsx)("title", { children: "Gasfund" }),
                   (0, s.jsx)("meta", {
                     name: "description",
-                    content:
-                      "The Instrument for Decentralized Trading in the Solana Ecosystem",
+                    content: "Get your Gas Fee Back with Gasfund AI Protocol",
                   }),
                   (0, s.jsx)("meta", {
                     property: "og:type",
@@ -1521,16 +1520,15 @@
                   }),
                   (0, s.jsx)("meta", {
                     property: "og:url",
-                    content: "https://Gasfund.ai",
+                    content: "https://gasfund.io",
                   }),
                   (0, s.jsx)("meta", {
                     property: "og:image",
-                    content: "/images/logo-square.png",
+                    content: "./images/logo-square.jpg",
                   }),
                   (0, s.jsx)("meta", {
                     property: "og:description",
-                    content:
-                      "The Instrument for Decentralized Trading in the Solana Ecosystem",
+                    content: "Get your Gas Fee Back with Gasfund AI Protocol",
                   }),
                   (0, s.jsx)("meta", {
                     name: "twitter:card",
@@ -1542,7 +1540,7 @@
                   }),
                   (0, s.jsx)("meta", {
                     name: "twitter:image",
-                    content: "/images/logo-square.png",
+                    content: "./images/logo-square.jpg",
                   }),
                   (0, s.jsx)("meta", {
                     name: "viewport",
