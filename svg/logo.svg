@@ -1,15 +1,15 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20" width="100" height="20">
 	<title>logo</title>
 	<defs>
-		<image  width="12" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAASCAMAAABYd88+AAAAAXNSR0IB2cksfwAAAU1QTFRFAAAAeXl5YGBgPT09enp6ZWVlODg4MzMzenp6enp6Z2dnODg4NDQ0enp6enp6ODg4NDQ0MzMzenp6enp6enp6NDQ0NDQ0NDQ0enp6NDQ0NDQ0enp6enp6d3d3W1tbMTExNDQ0NDQ0ZmZme3t7cnJyX19fRkZGLi4uGBgYICAgKysrMjIyNDQ0IyMjY2NjVFRUPDw8MjIyFBQUFRUVGxsbJSUlKSkpQEBAMjIyFBQUFRUVGhoaenp6e3t7NDQ0MjIyMjIyFBQUFBQUHx8fOzs7Ojo6enp6enp6cnJyMzMzKysrFBQUFxcXOzs7Ozs7Ozs7enp6enp6eHh4RkZGKysrOzs7Ozs7Ozs7Ojo6enp6enp6enp6a2trOzs7Ozs7Ozs7Ozs7enp6enp6ampqOzs7Ojo6eXl5enp6Ozs7enp6Z2dnPj4+NjY2ZGRkQ0ND4uqejQAAAG90Uk5TAAFyTS3ozgQFl//+Wzbv/90GCtD//5MFhPZMFvX///+/CwCS//////////dZADf2///////HIymx9YgbHFhKyf37pj1REn+uKXfp4Ek/xUgP4oVLS6PvmAg37f3d5v/GHXz7//Y/B6VrHta0AUEtk8hqZAAAAJdJREFUeJxjZAACRkbGv2AaRLAAeT+hHA4gm/ELlMPL+IeVkfE9mCPEyPiNlY2R8SWII/GHAchhYXwG5Egz/uAEyjFwM95nVGJEAnpAzPCTgwHMMQfZAOQwsAM5NiCRVxz8YBkGN7iOjYwMAYftoJwVQHsioewFYOckMjL+ZmOcDXFbGuOf31wzYF7IBCqaAuMw5jBOAtEAE2Ic9k/cdk0AAAAASUVORK5CYII="/>
+		<image width="12" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAASCAMAAABYd88+AAAAAXNSR0IB2cksfwAAAU1QTFRFAAAAeXl5YGBgPT09enp6ZWVlODg4MzMzenp6enp6Z2dnODg4NDQ0enp6enp6ODg4NDQ0MzMzenp6enp6enp6NDQ0NDQ0NDQ0enp6NDQ0NDQ0enp6enp6d3d3W1tbMTExNDQ0NDQ0ZmZme3t7cnJyX19fRkZGLi4uGBgYICAgKysrMjIyNDQ0IyMjY2NjVFRUPDw8MjIyFBQUFRUVGxsbJSUlKSkpQEBAMjIyFBQUFRUVGhoaenp6e3t7NDQ0MjIyMjIyFBQUFBQUHx8fOzs7Ojo6enp6enp6cnJyMzMzKysrFBQUFxcXOzs7Ozs7Ozs7enp6enp6eHh4RkZGKysrOzs7Ozs7Ozs7Ojo6enp6enp6enp6a2trOzs7Ozs7Ozs7Ozs7enp6enp6ampqOzs7Ojo6eXl5enp6Ozs7enp6Z2dnPj4+NjY2ZGRkQ0ND4uqejQAAAG90Uk5TAAFyTS3ozgQFl//+Wzbv/90GCtD//5MFhPZMFvX///+/CwCS//////////dZADf2///////HIymx9YgbHFhKyf37pj1REn+uKXfp4Ek/xUgP4oVLS6PvmAg37f3d5v/GHXz7//Y/B6VrHta0AUEtk8hqZAAAAJdJREFUeJxjZAACRkbGv2AaRLAAeT+hHA4gm/ELlMPL+IeVkfE9mCPEyPiNlY2R8SWII/GHAchhYXwG5Egz/uAEyjFwM95nVGJEAnpAzPCTgwHMMQfZAOQwsAM5NiCRVxz8YBkGN7iOjYwMAYftoJwVQHsioewFYOckMjL+ZmOcDXFbGuOf31wzYF7IBCqaAuMw5jBOAtEAE2Ic9k/cdk0AAAAASUVORK5CYII="/>
 	</defs>
 	<style>
 		tspan { white-space:pre } 
 		.t0 { font-size: 15px;fill: #000000;font-family: "Arial" } 
 	</style>
-	<text id="Gasfee" style="transform: matrix(1,0,0,1,0,15)" >
-		<tspan x="0" y="0" class="t0">Gasfee
+	<text id="Gasfund" style="transform: matrix(1,0,0,1,0,15)" >
+		<tspan x="0" y="0" class="t0">Gasf</tspan><tspan  y="0" class="t0">u</tspan><tspan  y="0" class="t0">n</tspan><tspan  y="0" class="t0">d</tspan><tspan  y="0" class="t0">
 </tspan>
 	</text>
-	<use id="Layer 1" href="#img1" x="55" y="1"/>
+	<use id="img1" href="#img1" transform="matrix(1,0,0,1,66,1)"/>
 </svg>
